@@ -2,8 +2,11 @@
 
 🏫 I'm a IT student at MQ <br/>
 🧠 I'm a Web and App design major <br/>
-🔭 I’m currently working on widgets for website <br/>
-🌱 I’m currently learning JS <br/>
+🔭 I’m currently working on a personal project <br/>
+🌱 I’m currently learning JS, python, Linux & DevOps <br/>
+📫 How to reach me: erikkudaya@gmail.com  <br/>
+📧 Connect with me on LinkedIn 
+https://www.linkedin.com/in/erik-k-more/
 <!-- ⚡ Fun fact: I'm really into ??? -->
 
 # 💻 Tech Stack:
